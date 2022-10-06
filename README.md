@@ -1,6 +1,6 @@
 # Frontend Mentor - Easybank landing page
 
-This is a solution to the [ Huddle landing page with curved sections](https://www.frontendmentor.io/challenges/Easybank landing page). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [ Easybank landing page](https://www.frontendmentor.io/challenges/Easybank landing page). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -13,8 +13,6 @@ This is a solution to the [ Huddle landing page with curved sections](https://ww
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 
 ## Overview
 
@@ -30,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [](https://github.com/Mosestule2003/easybank-landing-page-master)
 - Live Site URL: []()
 
 ## My process
